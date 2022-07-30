@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.internship.test.person.controller.PersonControllerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.037 s - in com.internship.test.person.controller.PersonControllerTest
